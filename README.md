@@ -2,7 +2,10 @@
 
 ## Prject Overview
 The management team needs a way to track KPIs(sales, revenue, profit, returns), compare regional performance, analyze product-level trends, and identify high-value customers.
+
 <br>
+<br>
+
 All that I have been given was a folder of raw csv files, which contains information about transactions, returns, products, customers, and sales territories.
 
 
