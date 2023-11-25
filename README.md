@@ -8,6 +8,7 @@ The management team needs a way to track KPIs(sales, revenue, profit, returns), 
 
 All that I have been given was a folder of raw csv files, which contains information about transactions, returns, products, customers, and sales territories.
 
+<br>
 
 ## The Objective
 Use Power BI Desktop to:
