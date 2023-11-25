@@ -1,4 +1,4 @@
-# Adventure-Works
+# Adventure Works Cycling Equipment and Accessories
 
 ## Prject Overview
 The management team needs a way to track KPIs(sales, revenue, profit, returns), compare regional performance, analyze product-level trends, and identify high-value customers.
